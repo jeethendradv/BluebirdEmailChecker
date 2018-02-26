@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <BlueBird>
+    <Data name="url">https://secure.bluebird.com/Signup</Data>
+    <Data name="FirstName">John</Data>
+    <Data name="LastName">Farmer</Data>
+    <Data name="PostCode">90013</Data>
+    <Data name="AddressLine1">907 E 3RD ST</Data>
+    <Data name="PhoneType">Mobile</Data>
+    <Data name="PhoneNumber">(213) 613-4200</Data>
+    <Data name="UserName">jeethendradv</Data>
+    <Data name="Password">Software7</Data>
+    <Data name="DateOfBirth">07/03/1987</Data>
+    <Data name="Ssn">458692365</Data>
+    <Data name="Pin">4258</Data>
+    <Data name="SecurityChallengeId">12</Data>
+    <Data name="SecurityChallengeAnswer">Polo</Data>
+    <Data name="BrowserVisible">true</Data>
+    <Data name="Delay">10000</Data>
+  </BlueBird>
+</Config>

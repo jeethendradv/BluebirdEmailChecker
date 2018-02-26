@@ -1,0 +1,16 @@
+H:\Projects\BluebirdEmailChecker\BluebirdEmailChecker\bin\Debug\EmailList.txt
+H:\Projects\BluebirdEmailChecker\BluebirdEmailChecker\bin\Debug\Output\NonRegisteredEmails.txt
+H:\Projects\BluebirdEmailChecker\BluebirdEmailChecker\bin\Debug\Output\RegisteredEmails.txt
+H:\Projects\BluebirdEmailChecker\BluebirdEmailChecker\bin\Debug\Data.xml
+H:\Projects\BluebirdEmailChecker\BluebirdEmailChecker\bin\Debug\RegisteredEmailCache.txt
+H:\Projects\BluebirdEmailChecker\BluebirdEmailChecker\bin\Debug\BluebirdEmailChecker.exe.config
+H:\Projects\BluebirdEmailChecker\BluebirdEmailChecker\bin\Debug\BluebirdEmailChecker.exe
+H:\Projects\BluebirdEmailChecker\BluebirdEmailChecker\bin\Debug\BluebirdEmailChecker.pdb
+H:\Projects\BluebirdEmailChecker\BluebirdEmailChecker\bin\Debug\Interop.SHDocVw.dll
+H:\Projects\BluebirdEmailChecker\BluebirdEmailChecker\bin\Debug\WatiN.Core.dll
+H:\Projects\BluebirdEmailChecker\BluebirdEmailChecker\bin\Debug\WatiN.Core.xml
+H:\Projects\BluebirdEmailChecker\BluebirdEmailChecker\obj\Debug\BluebirdEmailChecker.Form1.resources
+H:\Projects\BluebirdEmailChecker\BluebirdEmailChecker\obj\Debug\BluebirdEmailChecker.Properties.Resources.resources
+H:\Projects\BluebirdEmailChecker\BluebirdEmailChecker\obj\Debug\BluebirdEmailChecker.csproj.GenerateResource.Cache
+H:\Projects\BluebirdEmailChecker\BluebirdEmailChecker\obj\Debug\BluebirdEmailChecker.exe
+H:\Projects\BluebirdEmailChecker\BluebirdEmailChecker\obj\Debug\BluebirdEmailChecker.pdb
